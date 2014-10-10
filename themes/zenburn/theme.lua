@@ -51,7 +51,8 @@ theme.menu_width  = 150
 -- }}}
 
 -- {{{ Taglist
---theme.taglist_fg_focus              = "#F0DFAF"
+theme.taglist_fg_focus              = "#F0DFAF"
+theme.taglist_focus   		    = "#1E2320"
 --theme.taglist_bg_focus              = (theme_dir .. "/taglist_bg_focus.png")
 
 theme.taglist_squares_sel   = (theme_dir .. "/taglist/squarefz.png")
