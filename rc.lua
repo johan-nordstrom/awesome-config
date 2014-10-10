@@ -7,14 +7,8 @@ wibox = require("wibox")
 beautiful = require("beautiful")
 vicious = require("vicious")
 eminent = require("eminent")
---local awful = require("awful")
 awful.rules = require("awful.rules")
 awful.autofocus = require("awful.autofocus")
---local wibox = require("wibox")
---local gears = require("gears")
---local blingbling = require("blingbling")
---local beautiful = require("beautiful")
---local menubar = require("menubar")
 
 --{{{ Error handling
 -- Check if awesome encountered an error during startup and fell back to
