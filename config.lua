@@ -16,10 +16,9 @@ end
 
 --{{{---| Variables |---------------------------------------------------------------------------
 modkey = "Mod1"
-altkey = "Mod4"
 terminal = "urxvtc"
 editor = os.getenv("EDITOR") or "vim"
 editor_cmd = terminal .. " -e " .. editor
 markup = lain.util.markup
-font = "Tamsyn 12"
+font = "Tamsyn 10"
 --}}}----------------------------------------------------------------------------------------

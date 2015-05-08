@@ -11,11 +11,12 @@
 theme = {}
 theme_dir = ("/home/johan/.config/awesome/themes/zenburn")
 theme.wallpaper =  (theme_dir .. "/zenburn-background.png")
+
 -- }}}
 
 -- {{{ Styles
-theme.font      = "Tamsyn 12"
-theme.xfont      = "-misc-tamsyn-medium-r-normal--12-87-100-100-c-60-iso8859-1"
+theme.font      = "Tamsyn 10"
+theme.xfont      = "-misc-tamsyn-medium-r-normal--10-87-100-100-c-60-iso8859-1"
 -- }}}
 
 -- {{{ Colors
@@ -65,6 +66,7 @@ theme.menu_submenu_icon      = "/usr/share/awesome/themes/default/submenu.png"
 -- }}}
 
 -- {{{ Icons
+theme.baticon = (theme_dir .. "/icons/bat.png")
 theme.clockicon = (theme_dir .. "/icons/time.png")
 theme.diskicon = (theme_dir .. "/icons/disk.png")
 theme.mailicon = (theme_dir .. "/icons/mail.png")
